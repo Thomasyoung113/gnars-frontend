@@ -37,3 +37,7 @@ pnpm install
 # Start the development server
 pnpm dev
 ```
+
+## Development Setup
+
+Follow the installation instructions above to set up your local development environment. Contributions are welcome!
